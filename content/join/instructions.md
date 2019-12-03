@@ -1,10 +1,10 @@
 ---
-title: Joining the SCIONLab infrastructure
-parent: Frequently Asked Questions
-nav_order: 10
+title: Instructions
+parent: Joining the infrastructure
+nav_order: 20
 ---
 
-# Joining the SCIONLab infrastructure
+# Instructions
 
 If you are part of an organization and/or you are committed to do research with SCION, and using user ASes is not enough for your plans, then you could join SCIONLab with a dedicated host. We have compiled a short guide to document the requirements.
 You can join the SCIONLab network as an infrastructure AS with one or more machines, or you can start as small as dedicating only a simple commodity PC.
@@ -15,6 +15,7 @@ This page is supposed to give you a general overview over joining as a part of t
 
 ## Procedure
 
+- Read [the policy](policy.md) and  [get in contact with us](../../#contact) telling you want to join the infrastructure.
 - [Get in contact with us](../../#contact) telling you want to join the infrastructure.
 - Once the node(s) are ready on your side, create a `scionlab` user with full `sudo` rights and access for the SCIONLab team.
 - The SCIONLab admins will perform measurements to find the most appropriate neighbors to your AS. We will notify you of the result.
